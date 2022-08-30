@@ -1,0 +1,14 @@
+{
+  "name": "qtruck-tests",
+  "version": "1.0.0",
+  "description": "Projeto de testes E2E na web app Qtruck",
+  "main": "index.js",
+  "author": "Cassio P. Damacena",
+  "license": "MIT",
+  "devDependencies": {
+    "@bahmutov/cy-api": "^2.2.0",
+    "cypress": "^10.6.0",
+    "cypress-browser-permissions": "^1.1.0",
+    "cypress-mongodb": "^4.1.1"
+  }
+}
